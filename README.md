@@ -10,6 +10,7 @@ We leveraged Apache Spark to handle large-scale data processing and applied vari
 3) Apply machine learning and clustering techniques to support data-driven decisions. 
 
 📊 **Main Activities**
+
 **1) Data Pre-processing**
 
 - Data cleaning and normalization
