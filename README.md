@@ -1,5 +1,5 @@
 # DDAM---Analysis-of-Apartment-rental-offers-in-Germany
-Check out the detailed explaination about the activities in the [Group6_DDAM_FinalReport.pdf].
+Check out the detailed explaination about the activities in the [Group6_DDAM_FinalReport.pdf](Group6_DDAM_FinalReport.pdf).
 
 This project focuses on the distributed analysis and mining of a real-world dataset related to rental properties in Germany.
 We leveraged Apache Spark to handle large-scale data processing and applied various data mining and machine learning techniques to extract insights and build predictive models.
